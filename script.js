@@ -8,6 +8,6 @@ let cell1=newRow.insertCell()
 	let cell2=newRow.insertCell()
 
 	
-cell1.innerHTML="newrow cell1"
-	cell2.innerHTML="newrow cell2"
+cell1.innerHTML="NewRow Cell1"
+	cell2.innerHTML="NewRow Cell2"
 }
